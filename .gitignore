@@ -1,0 +1,4 @@
+www/assets/css
+www/assets/js
+node_modules/
+*.DS_Store
